@@ -1,26 +1,54 @@
-# 💫 About Me
+# Hey there, I'm Philix (Kaung Hset Hein) 👋
 
+**Full-Stack Engineer | Backend Specialist | ML Engineer**
 
-## 👋 Hi, I'm Kaung Hset Hein a.k.a PhilixTheExplorer! 
+I build production-grade systems that scale. My code doesn't just work... it's architected for performance, maintainability, and real-world impact.
 
-🎓 Computer Science Student | 💻 Aspiring Software Developer | 📚 Lifelong Learner
+## 🔧 What I Do
 
-### 🚀 Skills 
-- **Languages**: Java, JavaScript, Python, Kotlin (learning), Dart/Flutter (learning)  
-- **Frontend**: React, HTML, CSS, Tailwind, MUI  
-- **Backend**: Node.js, Express  
-- **Databases/ORM**: MySQL, SQLite, PostgreSQL, MongoDB, Prisma  
+I'm obsessed with the details that separate prototypes from production systems. Whether it's optimizing database schemas, building modular API architectures, or deploying ML models at scale, I think deeply about how systems perform under real conditions.
 
-### 🌱 Currently Learning  
-- Kotlin and Android development  
-- Flutter for cross-platform app development  
+**Backend-first thinking:** I start with data models, API contracts, and system architecture before touching the frontend. Clean separation of concerns isn't optional... it's how you build systems that last.
 
-📚 Always eager to learn and take on new challenges!  
-📫 Let's connect and collaborate!  
+**ML in production:** I don't just train models... I ship them. Inference pipelines, batch processing, error handling, and performance optimization for real-time computer vision and time-series classification.
 
+## 🚀 Highlighted Projects
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaung-hset-hein) 
+### [SIT Compendium](https://sit-compendium.philixtheexplorer.dev/)
+Full-stack academic platform with schema-driven architecture, KaTeX math rendering, and Next.js SSR
+- **Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Docker
+
+### GodView AI 🏆 *International AI Hackathon 2025 Winner*
+Real-time patient monitoring system with computer vision and alert integration
+- **Stack:** FastAPI, YOLOv8, Supabase, Telegram Bot API
+
+### [OSAS Detection Transformer](https://github.com/PhilixTheExplorer/osas_detection_transformer)
+End-to-end ML pipeline for multimodal physiological time-series classification
+- **Stack:** PyTorch, Transformers, healthcare AI, patient-aware data splitting
+
+### [OCR Text Extractor](https://github.com/PhilixTheExplorer/ocr_text_extractor)
+Production CLI tool with modular architecture and Google Cloud Vision integration
+- **Stack:** Python, Google Cloud Vision, batch processing, error recovery
+
+### [SIT Face Recognition System](https://github.com/PhilixTheExplorer/sit-face-recog)
+High-performance desktop app with memory-efficient mode switching
+- **Stack:** PyQt6, OpenCV, multi-threaded processing
+
+## 💡 What Drives Me
+
+The intersection of elegant architecture and measurable impact. I'm fascinated by:
+- How the right database schema transforms query performance
+- Why proper separation of concerns makes codebases maintainable at scale
+- How thoughtful error handling turns prototypes into production systems
+- The challenge of deploying ML models that work reliably in the real world
+
+## 📫 Let's Connect
+
+- **Portfolio:** [philixtheexplorer.dev](https://www.philixtheexplorer.dev)
+- **LinkedIn:** [Kaung Hset Hein](https://linkedin.com/in/kaung-hset-hein)
+- **Email:** hello@philixtheexplorer.dev
+
+Currently seeking opportunities to contribute to engineering teams that value thoughtful architecture, scalability, and continuous learning.
 
 # 💻 Tech Stack:
 ## LANGUAGES
@@ -35,21 +63,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ## TOOLS
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PhilixTheExplorer&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PhilixTheExplorer&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilixTheExplorer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PhilixTheExplorer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PhilixTheExplorer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PhilixTheExplorer&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*"I don't just write code... I design systems that are robust, efficient, and built to last."*
