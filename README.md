@@ -67,3 +67,5 @@ Currently seeking opportunities to contribute to engineering teams that value th
 ---
 
 *"I don't just write code... I design systems that are robust, efficient, and built to last."*
+
+![](https://hit.yhype.me/github/profile?account_id=159520074)
